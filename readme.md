@@ -1,4 +1,4 @@
-Move All: original by https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities
+Move All: original by [https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities](D3SOX)
 
 findReply: https://github.com/waresnew/Vencord/tree/findreply/src/plugins/findReply
 
