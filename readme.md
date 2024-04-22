@@ -1,4 +1,4 @@
-Move Everyone: original by [D3SOX](https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities)
+Move Everyone fork of [voiceChatUtilities](https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities) by D3SOX
 
 [findReply](https://github.com/waresnew/Vencord/tree/findreply/src/plugins/findReply)
 
