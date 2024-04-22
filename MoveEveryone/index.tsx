@@ -82,7 +82,7 @@ const VoiceChannelContext: NavContextMenuPatchCallback = (children, { channel }:
 };
 
 export default definePlugin({
-    name: "MoveAll",
+    name: "MoveEveryone",
     description: "originally by dutake",
     authors: [{ name: "TOR1MA", id: 342785667719495691n }, Devs.D3SOX],
 
