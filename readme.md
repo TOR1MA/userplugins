@@ -1,4 +1,4 @@
-Move All: original by [D3SOX](https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities)
+Move Everyone: original by [D3SOX](https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities)
 
 [findReply](https://github.com/waresnew/Vencord/tree/findreply/src/plugins/findReply)
 
