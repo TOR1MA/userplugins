@@ -9,3 +9,5 @@ Move Everyone fork of [voiceChatUtilities](https://github.com/D3SOX/vencord-user
 [vc-gif-collections](https://github.com/Syncxv/vc-gif-collections)
 
 [vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)
+
+[better-bios](https://gist.github.com/sunnniee/1d3e96cfb091dc096b32c839cc0faa09)
