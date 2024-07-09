@@ -2,7 +2,7 @@ Move Everyone fork of [voiceChatUtilities](https://github.com/D3SOX/vencord-user
 
 [findReply](https://github.com/waresnew/Vencord/tree/findreply/src/plugins/findReply)
 
-[memberListActivities](https://github.com/D3SOX/Vencord/tree/plugin/memberListActivities/src/plugins/memberListActivities)
+[BetterActivities](https://github.com/D3SOX/vc-betterActivities)
 
 [replaceActivityTypes](https://github.com/nyakowint/replaceActivityTypes)
 
