@@ -1,4 +1,4 @@
-Move Everyone fork of [voiceChatUtilities](https://github.com/D3SOX/vencord-userplugins/tree/master/voiceChatUtilities) by D3SOX
+Move Everyone fork of [voiceChatUtilities](https://github.com/D3SOX/vc-voiceChatUtilities) by D3SOX
 
 [findReply](https://github.com/waresnew/Vencord/tree/findreply/src/plugins/findReply)
 
